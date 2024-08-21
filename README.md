@@ -12,7 +12,7 @@ I'm Hamid Ibrahim, a passionate Data Analyst from India with a strong love for S
 - 💬 **Ask Me About:** Web Development, Data Analysis, Machine Learning, Python
 
 ### My GitHub Stats
-![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamAraAym&show_icons=true&theme=radical)
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hamaraaym/)
