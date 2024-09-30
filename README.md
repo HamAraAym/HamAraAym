@@ -16,5 +16,6 @@ I'm Hamid Ibrahim, a passionate Data Analyst from India with a strong love for S
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hamaraaym/)
+- [GitHub] (https://github.com/HamAraAym/)
 
 Looking forward to collaborating and sharing knowledge with the community. Let's code something amazing together!
