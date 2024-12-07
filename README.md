@@ -51,7 +51,6 @@ I'm actively building my knowledge in the following areas:
 
 ![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamAraAym&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamAraAym&theme=radical)  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=HamAraAym&theme=radical)  
 
 ---
 
