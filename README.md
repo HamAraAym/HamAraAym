@@ -1,78 +1,89 @@
 # Hi there, I'm Hamid Ibrahim 👋  
 
-🌟 **QA Tester | Aspiring Backend Developer | AI & Data Science Enthusiast**  
+🚀 **QA Tester | Aspiring Backend Developer | AI & Data Science Enthusiast**  
+
+I’m a technology professional from **India** with hands-on experience in **Quality Assurance** and a strong passion for **Backend Development, AI, and Data Science**. I enjoy building, testing, and improving applications that solve real-world problems efficiently.
 
 ---
 
-### 📝 About Me  
-I am Hamid Ibrahim, a passionate technology professional from India with experience as a QA Tester. My current work involves testing mobile and web applications while continually enhancing my skills in Backend Development, Artificial Intelligence, and Data Science. I enjoy solving real-world problems by creating efficient and impactful solutions, whether through code, testing, or data-driven insights.  
+## 🧑‍💻 About Me  
 
-💡 **What Drives Me?**  
-- A strong belief in technology's ability to drive innovation and improve lives.  
-- A thirst for learning and mastering new tools, frameworks, and methodologies.  
-- A goal to transition into Backend Development and dive deeper into AI, ML, and Data Science.  
+- 🔍 Currently working as a **QA Tester**, testing mobile and web applications  
+- 🧠 Actively transitioning toward **Backend Development**  
+- 📊 Exploring **AI, Machine Learning, and Data Science**  
+- 🌱 Lifelong learner who enjoys experimenting with new tools and technologies  
+
+**What motivates me?**  
+- Using technology to create meaningful impact  
+- Continuous learning and skill improvement  
+- Building scalable, data-driven, and reliable systems  
 
 ---
 
-### 🔧 My Tech Stack  
+## 🔧 Tech Stack  
 
-#### **Programming & Scripting**  
-- **Intermediate:** Python, JavaScript, Dart (Flutter), R Programming
+### 🧠 Programming & Scripting  
+- **Python**, **JavaScript**, **Dart (Flutter)**  
+- **R Programming**  
 
-#### **Web Development**  
-- HTML, CSS  
-- **Frontend:** React.js (Currently improving)  
+### 🌐 Web Development  
+- **HTML**, **CSS**  
+- **Frontend:** React.js *(currently improving)*  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 
-#### **Cloud & DevOps**  
-- **Platform:** AWS (Basic deployment and configuration skills)  
+### ☁️ Cloud & DevOps  
+- **AWS** – basic deployment & configuration  
 
-#### **Mobile Development**  
-- Flutter (Dart) for cross-platform mobile applications  
+### 📱 Mobile Development  
+- **Flutter (Dart)** – cross-platform applications  
 
-#### **Data Science & Visualization**  
-- Python for data analysis and ML modeling  
-- PowerBI for creating interactive dashboards  
-- R Programming for statistical analysis  
-
----
-
-### 🌱 Currently Learning  
-I'm actively building my knowledge in the following areas:  
-- Advanced React.js and building dynamic web applications  
-- Neural Networks and Machine Learning algorithms  
-- Postman for efficient API testing and automation  
-- AWS to improve my cloud infrastructure skills  
+### 📊 Data Science & Visualization  
+- Python for data analysis & ML  
+- **Power BI** for interactive dashboards  
+- **R** for statistical analysis  
 
 ---
 
-### 📊 GitHub Stats  
+## 🌱 Currently Learning  
+
+- Advanced **React.js** and modern frontend patterns  
+- **Machine Learning & Neural Networks**  
+- **Postman** for API testing and automation  
+- **AWS** for scalable cloud infrastructure  
+
+---
+
+## 📈 GitHub Stats  
 
 ![Hamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamAraAym&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamAraAym&theme=radical)  
 
 ---
 
-### 💬 Ask Me About  
-I'm always open to conversations about:  
-- Backend Development (Node.js, MongoDB)  
-- Testing practices (QA methodologies, API testing)  
-- Machine Learning and Data Science techniques  
-- Tips for transitioning from QA to Backend Development  
+## 💬 Ask Me About  
+
+- Backend Development (**Node.js, Express, MongoDB**)  
+- QA practices & testing methodologies  
+- API testing & automation  
+- Machine Learning & Data Science basics  
+- Transitioning from **QA → Backend Developer**  
 
 ---
 
-### 🚀 Future Goals  
-- Master Backend Development to design scalable and secure systems.  
-- Advance my skills in AI and Machine Learning to work on impactful projects.  
-- Contribute to open-source projects and build a collaborative developer network.  
+## 🎯 Future Goals  
+
+- Become a **strong Backend Engineer** building scalable systems  
+- Gain deeper expertise in **AI & Machine Learning**  
+- Contribute to **open-source projects**  
+- Collaborate with developers worldwide  
 
 ---
 
-### 📌 Connect With Me  
+## 🔗 Connect With Me  
 
-- [LinkedIn](https://www.linkedin.com/in/hamaraaym/)  
-- [GitHub](https://github.com/HamAraAym/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamaraaym/)  
+- 🐙 [GitHub](https://github.com/HamAraAym/)  
 
-I am always excited to collaborate on interesting projects or share knowledge with like-minded individuals. Let’s create something amazing together! 🚀  
+✨ Always open to collaboration, learning, and knowledge sharing.  
+Let’s build something impactful together!
